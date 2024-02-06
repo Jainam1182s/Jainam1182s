@@ -23,7 +23,7 @@ export default () => ({
       python: ["django"],
     },
     machineLearning: ["tensorflow", "keras", "pytorch"],
-    databases: ["mongo", "postgres", "redis"]
+    databases: ["mysql", "mongoDB"]
   },
   ]
 });
