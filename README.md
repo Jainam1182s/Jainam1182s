@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning: **Backend Development**
 
-- 💬 Ask me about: **C, C++, Ppython**
+- 💬 Ask me about: **C, C++, Python**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
