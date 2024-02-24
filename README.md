@@ -26,3 +26,5 @@
   <a href="mailto:jainam2711s@gmail.com">
     <img align="left" alt="Jainam Shah | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
   </a>
+
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jainam1182s&" alt="jainam1182s" /></p>
