@@ -11,7 +11,7 @@
   </em>  
 </p>
 <br>
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jainam1182s&" alt="jainam1182s" /></p>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jainam1182s&theme=dark" alt="jainam1182s" /></p>
 
 <br>
 
