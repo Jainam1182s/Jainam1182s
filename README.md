@@ -10,7 +10,8 @@
     <b>grow.</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">
   </em>  
 </p>
-
+<br>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jainam1182s&" alt="jainam1182s" /></p>
 
 <br>
 
@@ -27,4 +28,3 @@
     <img align="left" alt="Jainam Shah | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
   </a>
 
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jainam1182s&" alt="jainam1182s" /></p>
