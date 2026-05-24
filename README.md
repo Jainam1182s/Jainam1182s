@@ -11,8 +11,7 @@
   </em>  
 </p>
 <br>
-  <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=jainam1182s&theme=dark" alt="jainam1182s" /></p>
-  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jainam1182s&show_icons=true&locale=en&layout=compact&theme=dark" alt="jainam1182s" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jainam1182s&show_icons=true&locale=en&layout=compact&theme=dark" alt="jainam1182s" /></p>
 
 <br>
 
@@ -31,9 +30,6 @@
   </a>
   <a href="https://https://twitter.com/Jainam1182">
     <img align="left" alt="Jainam Shah | Twitter" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" />
-  </a>
-  <a href="https://www.instagram.com/jainamshah2711/">
-    <img align="left" alt="Jainam Shah | Instagram" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" />
   </a>
   <a href="mailto:jainam2711s@gmail.com">
     <img align="left" alt="Jainam Shah | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
