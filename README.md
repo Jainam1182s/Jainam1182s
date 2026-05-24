@@ -11,12 +11,6 @@
   </em>  
 </p>
 <br>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jainam1182s&show_icons=true&locale=en&layout=compact&theme=dark" alt="jainam1182s" /></p>
-
-<br>
-
-
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> 
